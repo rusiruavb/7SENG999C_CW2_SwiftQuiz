@@ -1,10 +1,3 @@
-//
-//  LoginView.swift
-//  SwiftQuiz
-//
-//  Created by Senura Jayadeva on 2025-05-07.
-//
-
 import SwiftUI
 
 struct LoginView: View {
